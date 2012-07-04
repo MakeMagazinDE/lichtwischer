@@ -6,7 +6,7 @@
 #define __SENSOR_H_
 
 // unsure why this is required in an include file
-#include <WProgram.h>
+#include <Arduino.h>
 
 #include "utilities.h"
 
